@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I am Matias!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Dev+Beginner;Systems+Development+Student;I+love+my+pets+very+ much;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Dev+Beginner;Systems+Development+Student;I+love+my+pets+very+much;Welcome+to+my+GitHub!" />
 </p>
 
 ---
@@ -29,10 +29,10 @@
 
 ---
 
-### 🐍 Snake dos Commits
+### 🐍 Contribution Snake
 
-![snake gif](- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0)
+![Snake animation](https://github.com/matiasonerb/matiasonerb/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
 <p align="center">✨ Thank you for your visit! ✨</p>
