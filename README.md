@@ -29,9 +29,9 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Commit Snake
 
-![Snake animation](https://github.com/matiasonerb/matiasonerb/blob/output/github-contribution-grid-snake.svg)
+![github contribution snake](https://raw.githubusercontent.com/matiasonerb/matiasonerb/output/github-contribution-grid-snake.svg)
 
 ---
 
