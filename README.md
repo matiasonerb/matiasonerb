@@ -29,12 +29,4 @@
 
 ---
 
-### 🐍 Snake dos Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matiasonerb/matiasonerb/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-
----
-
 <p align="center">✨ Thank you for your visit! ✨</p>
