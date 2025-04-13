@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hi, dev!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Systems+Development+Student;I+love+my+pets+very+much!+❤️🐾;I+have+already+turned+off+my+screen;Welcome+to+my+GitHub!" />
 </p>
 
@@ -39,14 +33,6 @@
 
 <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-
----
-
-### 👨‍💻 Programming Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
