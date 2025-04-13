@@ -34,6 +34,7 @@
 <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
+
 ---
 
 <p align="center">✨ Thank you for your visit! ✨</p>
