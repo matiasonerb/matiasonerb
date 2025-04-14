@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, dev!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Systems+Development+Student;I+love+my+pets+very+much!+❤️🐾;I+have+already+turned+off+my+screen;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Systems+Development+Student;I+love+my+pets+very+much!+❤️🐾;I+have+already+turned+off+my+screen;Welcome+to+my+GitHub!" />
 </p>
 
 ---
@@ -23,8 +23,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matiasonerb&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=matiasonerb&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matiasonerb&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=matiasonerb&theme=radical" />
 </p>
 
 <p align="center">
@@ -36,10 +36,10 @@
 ### 🐍 Snake of Contributions
 
 <p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
 
 ---
 
-<p align="center">✨ Thanks for stopping by! Keep coding 🚀✨</p>
+<p align="center">✨ Thank you for your visit! ✨</p>
 
