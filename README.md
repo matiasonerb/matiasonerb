@@ -6,18 +6,20 @@
 
 ---
 
-### 🛠️ Technologies I use
+### 🛠️ Technologies I work with
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
 ---
 
-### 📊 My stats on GitHub
+### 📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matiasonerb&show_icons=true&theme=radical" />
@@ -30,7 +32,7 @@
 
 ---
 
-### 🐍 Snake dos Commits
+### 🐍 Snake of Contributions
 
 <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="snake gif">
@@ -38,4 +40,5 @@
 
 ---
 
-<p align="center">✨ Thank you for your visit! ✨</p>
+<p align="center">✨ Thanks for stopping by! Keep coding 🚀✨</p>
+
