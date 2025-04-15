@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasonerb&layout=compact&theme=radical" />
+  <img width="60%" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasonerb&layout=compact&theme=radical&langs_count=10)" />
 </p>
 
 ---
