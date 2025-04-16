@@ -23,11 +23,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matiasonerb&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasonerb&layout=compact&theme=radical&langs_count=10" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=matiasonerb&show_icons=true&theme=radical" />
+   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasonerb&layout=compact&theme=radical&langs_count=10" />
 </p>
 
 ---
