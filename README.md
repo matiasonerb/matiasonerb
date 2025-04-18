@@ -27,7 +27,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=matiasonerb&theme=radical" />
 </p>
 
-<p align="center>
+<p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasonerb&layout=compact&theme=radical&langs_count=10" />
 </p>
 
