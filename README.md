@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Technologies I'm Learning
+### Technologies I'm Learning
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matiasonerb&show_icons=true&theme=radical" />
@@ -32,8 +32,6 @@
 </p>
 
 ---
-
-### 🐍 Snake of Contributions
 
 <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="snake gif">
